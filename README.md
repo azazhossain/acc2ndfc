@@ -69,7 +69,7 @@
                 <option value="acc9">৯ম অধ্যায়: ব্যয় ও ব্যয়ের শ্রেণিবিভাগ</option>
                 <option value="acc10">১০ম অধ্যায়: ব্যবস্থাপনা হিসাববিজ্ঞান পরিচিতি</option>
             </select>
-            <button class="pdf-btn" onclick="downloadPDF()">📄 ডাউনলোড PDF (সব প্রশ্ন একসাথে)</button>
+            <button class="pdf-btn" onclick="downloadPDF()">📄 ডাউনলোড PDF</button>
         </div>
 
         <div class="card-container" id="swipeArea">
